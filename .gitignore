@@ -167,3 +167,5 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+lib/TLib_d.lib
+setup.exe
