@@ -1,4 +1,4 @@
-LIBRARY      "fastext1"
+LIBRARY      "shellext"
 EXPORTS
 	DllCanUnloadNow			PRIVATE
 	DllGetClassObject		PRIVATE
